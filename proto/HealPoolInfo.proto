@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message HealPoolInfo {
-    uint32 heal_pool = 1;
-    uint32 refresh_time = 2;
-}

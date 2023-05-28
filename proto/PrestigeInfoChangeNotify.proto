@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "PrestigeInfo.proto";
-
-message PrestigeInfoChangeNotify {
-    PrestigeInfo prestige_info = 1;
-}

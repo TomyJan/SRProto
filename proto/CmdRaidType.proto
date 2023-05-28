@@ -1,16 +1,24 @@
 syntax = "proto3";
 
-
 enum CmdRaidType {
-    CmdRaidTypeNone = 0;
-    CmdStartRaidCsReq = 2201;
-    CmdStartRaidScRsp = 2202;
-    CmdLeaveRaidCsReq = 2203;
-    CmdLeaveRaidScRsp = 2204;
-    CmdRaidInfoNotify = 2205;
-    CmdGetChallengeRaidInfoCsReq = 2206;
-    CmdGetChallengeRaidInfoScRsp = 2207;
-    CmdTakeChallengeRaidRewardCsReq = 2208;
-    CmdTakeChallengeRaidRewardScRsp = 2209;
-    CmdChallengeRaidNotify = 2210;
+  CmdRaidTypeNone = 0;
+  CmdGetSaveRaidCsReq = 2251;
+  CmdChallengeRaidNotify = 2246;
+  CmdStartRaidScRsp = 2233;
+  CmdLeaveRaidScRsp = 2297;
+  CmdTakeChallengeRaidRewardCsReq = 2247;
+  CmdRaidInfoNotify = 2278;
+  CmdLeaveRaidCsReq = 2219;
+  CmdGetAllSaveRaidCsReq = 2256;
+  CmdStartRaidCsReq = 2252;
+  CmdGetAllSaveRaidScRsp = 2273;
+  CmdDelSaveRaidScNotify = 2285;
+  CmdSetClientRaidTargetCountCsReq = 2222;
+  CmdSetClientRaidTargetCountScRsp = 2224;
+  CmdTakeChallengeRaidRewardScRsp = 2260;
+  CmdGetChallengeRaidInfoCsReq = 2255;
+  CmdGetRaidInfoCsReq = 2250;
+  CmdGetRaidInfoScRsp = 2209;
+  CmdGetSaveRaidScRsp = 2257;
+  CmdGetChallengeRaidInfoScRsp = 2204;
 }

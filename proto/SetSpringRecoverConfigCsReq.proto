@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "SpringRecoverConfig.proto";
-
-message SetSpringRecoverConfigCsReq {
-    SpringRecoverConfig spring_recover_config = 1;
-}

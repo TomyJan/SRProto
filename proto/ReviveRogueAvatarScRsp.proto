@@ -1,9 +1,12 @@
 syntax = "proto3";
 
+import "PIIHBCJHEGM.proto";
 
 message ReviveRogueAvatarScRsp {
-    uint32 retcode = 1;
-    uint32 base_avatar_id = 2;
-    uint32 rogue_stamina = 3;
-    uint32 revive_count = 4;
+  repeated uint32 mCJGAHCPGON = 4;
+  uint32 m_value = 12;
+  repeated uint32 kHGKJKJEJGF = 6;
+  uint32 belongAvatarID = 3;
+  PIIHBCJHEGM kADLBMDJHGM = 14;
+  uint32 nBJCJGAPNDL = 1;
 }

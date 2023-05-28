@@ -1,8 +1,7 @@
 syntax = "proto3";
 
-
 enum CmdAdventureType {
-    CmdAdventureTypeNone = 0;
-    CmdEnterAdventureCsReq = 1301;
-    CmdEnterAdventureScRsp = 1302;
+  CmdAdventureTypeNone = 0;
+  CmdEnterAdventureCsReq = 1352;
+  CmdEnterAdventureScRsp = 1333;
 }

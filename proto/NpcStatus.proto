@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message NpcStatus {
-    uint32 npc_id = 1;
-    bool is_finish = 2;
-}

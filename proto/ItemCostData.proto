@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "ItemCost.proto";
-
-message ItemCostData {
-    repeated ItemCost item_list = 1;
-}

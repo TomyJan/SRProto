@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "NpcStatus.proto";
+import "OHHBGJHJDDE.proto";
 
 message GetNpcStatusScRsp {
-    uint32 retcode = 1;
-    repeated NpcStatus message_status_list = 2;
+  uint32 m_value = 1;
+  repeated OHHBGJHJDDE gJJLMJMECBL = 14;
 }

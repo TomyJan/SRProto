@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message FinishRogueDialogueGroupScRsp {
-    uint32 retcode = 1;
-}

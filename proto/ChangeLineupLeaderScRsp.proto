@@ -1,7 +1,6 @@
 syntax = "proto3";
 
-
 message ChangeLineupLeaderScRsp {
-    uint32 retcode = 1;
-    uint32 slot = 2;
+  uint32 slot = 13;
+  uint32 m_value = 9;
 }

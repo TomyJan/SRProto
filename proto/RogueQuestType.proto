@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-enum RogueQuestType {
-    ROGUE_QUEST_TYPE_EXPLORE = 0;
-    ROGUE_QUEST_TYPE_CHALLENGE = 1;
-}

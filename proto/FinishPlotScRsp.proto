@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message FinishPlotScRsp {
-    uint32 retcode = 1;
-    uint32 plot_id = 2;
-}

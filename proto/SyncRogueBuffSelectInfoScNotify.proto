@@ -1,7 +1,7 @@
 syntax = "proto3";
 
-import "RogueBuffSelectInfo.proto";
+import "GFHJOJHANJD.proto";
 
 message SyncRogueBuffSelectInfoScNotify {
-    RogueBuffSelectInfo buff_select_info = 1;
+  GFHJOJHANJD gAKGNIIDINK = 10;
 }

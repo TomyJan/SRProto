@@ -1,15 +1,19 @@
 syntax = "proto3";
 
-import "Equipment.proto";
-import "Material.proto";
-import "Relic.proto";
-import "WaitDelResource.proto";
+import "KFKCICBJHDK.proto";
+import "FMDFBEGJKEP.proto";
+import "KOBNKDHJPHE.proto";
+import "KFCHDBDIPLK.proto";
+import "JGCLLIINEAL.proto";
 
 message GetBagScRsp {
-    uint32 retcode = 1;
-    repeated Equipment equipment_list = 2;
-    repeated Material material_list = 3;
-    repeated Relic relic_list = 4;
-    repeated Material rogue_item_list = 5;
-    repeated WaitDelResource wait_del_resource_list = 6;
+  repeated uint32 lCKJJIEMMMB = 5;
+  repeated KFKCICBJHDK kMAPDEHCDJH = 14;
+  repeated FMDFBEGJKEP cNNNPNMAJLK = 10;
+  repeated KOBNKDHJPHE eCJODBNEOPI = 15;
+  repeated KFCHDBDIPLK jIDDGKDKEAH = 1;
+  repeated KFCHDBDIPLK gMPOJOGNPDI = 7;
+  repeated JGCLLIINEAL fHBNFCHOKIH = 4;
+  uint32 m_value = 8;
+  repeated JGCLLIINEAL jPFKMMIGBJE = 12;
 }

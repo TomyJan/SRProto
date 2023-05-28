@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "SceneBattleInfo.proto";
+import "BOGGPAELPEP.proto";
 
 message SceneCastSkillScRsp {
-    uint32 retcode = 1;
-    SceneBattleInfo battle_info = 2;
+  BOGGPAELPEP mEGJDKGGEOJ = 15;
+  uint32 m_value = 14;
 }

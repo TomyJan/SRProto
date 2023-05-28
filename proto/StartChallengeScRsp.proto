@@ -1,10 +1,10 @@
 syntax = "proto3";
 
-import "Maze.proto";
-import "CurChallenge.proto";
+import "NOEACEGLLDB.proto";
+import "HCFBMEBDAEG.proto";
 
 message StartChallengeScRsp {
-    uint32 retcode = 1;
-    Maze maze = 2;
-    CurChallenge cur_challenge = 3;
+  NOEACEGLLDB cIMGPHGOPHM = 13;
+  uint32 m_value = 11;
+  HCFBMEBDAEG _SceneInfo = 6;
 }

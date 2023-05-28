@@ -1,25 +1,26 @@
 syntax = "proto3";
 
-
 enum CmdAvatarType {
-    CmdAvatarTypeNone = 0;
-    CmdGetAvatarDataCsReq = 301;
-    CmdGetAvatarDataScRsp = 302;
-    CmdAvatarExpUpCsReq = 303;
-    CmdAvatarExpUpScRsp = 304;
-    CmdUnlockSkilltreeCsReq = 305;
-    CmdUnlockSkilltreeScRsp = 306;
-    CmdPromoteAvatarCsReq = 307;
-    CmdPromoteAvatarScRsp = 308;
-    CmdDressAvatarCsReq = 309;
-    CmdDressAvatarScRsp = 310;
-    CmdTakeOffEquipmentCsReq = 311;
-    CmdTakeOffEquipmentScRsp = 312;
-    CmdAddAvatarScNotify = 313;
-    CmdRankUpAvatarCsReq = 314;
-    CmdRankUpAvatarScRsp = 315;
-    CmdDressRelicAvatarCsReq = 316;
-    CmdDressRelicAvatarScRsp = 317;
-    CmdTakeOffRelicCsReq = 318;
-    CmdTakeOffRelicScRsp = 319;
+  CmdAvatarTypeNone = 0;
+  CmdDressRelicAvatarScRsp = 356;
+  CmdPromoteAvatarScRsp = 347;
+  CmdRankUpAvatarScRsp = 351;
+  CmdGetAvatarDataScRsp = 333;
+  CmdPromoteAvatarCsReq = 304;
+  CmdUnlockSkilltreeCsReq = 378;
+  CmdTakeOffRelicScRsp = 385;
+  CmdTakePromotionRewardScRsp = 369;
+  CmdTakePromotionRewardCsReq = 344;
+  CmdTakeOffEquipmentScRsp = 309;
+  CmdGetAvatarDataCsReq = 352;
+  CmdTakeOffEquipmentCsReq = 350;
+  CmdAddAvatarScNotify = 322;
+  CmdUnlockSkilltreeScRsp = 355;
+  CmdAvatarExpUpCsReq = 319;
+  CmdDressAvatarScRsp = 346;
+  CmdRankUpAvatarCsReq = 324;
+  CmdTakeOffRelicCsReq = 373;
+  CmdDressAvatarCsReq = 360;
+  CmdAvatarExpUpScRsp = 397;
+  CmdDressRelicAvatarCsReq = 357;
 }

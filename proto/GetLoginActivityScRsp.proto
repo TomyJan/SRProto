@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "LoginActivityData.proto";
+import "JANBKHNPEHH.proto";
 
 message GetLoginActivityScRsp {
-    uint32 retcode = 1;
-    repeated LoginActivityData login_activity_list = 2;
+  repeated JANBKHNPEHH pGNLLIBDDBG = 4;
+  uint32 m_value = 5;
 }

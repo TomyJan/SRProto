@@ -1,8 +1,10 @@
 syntax = "proto3";
 
-import "Mission.proto";
+import "JMGPAFHGNJE.proto";
+import "MissionData.proto";
 
 message GetMissionDataScRsp {
-    uint32 retcode = 1;
-    repeated Mission mission_list = 2;
+  repeated JMGPAFHGNJE hEDOBAGGAHP = 14;
+  uint32 m_value = 15;
+  repeated MissionData gLKOKIPDGNG = 12;
 }

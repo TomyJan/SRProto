@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-
 message SyncTaskCsReq {
-    string key = 1;
+  string aJGLMBPCOGL = 11;
 }

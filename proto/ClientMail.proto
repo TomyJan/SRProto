@@ -3,14 +3,14 @@ syntax = "proto3";
 import "ItemList.proto";
 
 message ClientMail {
-    uint32 id = 1;
-    uint32 template_id = 2;
-    string title = 3;
-    string content = 4;
-    string sender = 5;
-    uint32 time = 6;
-    ItemList attachment = 7;
-    bool is_read = 8;
-    uint32 expire_time = 9;
-    repeated string para_list = 10;
+  string title = 7;
+  int64 time = 5;
+  uint32 templateId = 14;
+  string sender = 2;
+  string content = 9;
+  int64 expireTime = 3;
+  uint32 id = 11;
+  repeated string paraList = 8;
+  bool isRead = 4;
+  ItemList attachment = 1;
 }

@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "MessageGroup.proto";
+import "AIKPGOLFBNE.proto";
 
 message GetNpcMessageGroupScRsp {
-    uint32 retcode = 1;
-    repeated MessageGroup message_group_list = 2;
+  repeated AIKPGOLFBNE aNBCHNDMELE = 9;
+  uint32 m_value = 14;
 }

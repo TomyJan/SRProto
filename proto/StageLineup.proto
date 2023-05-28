@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message StageLineup {
-    uint32 stage_type = 1;
-    uint32 lineup_index = 2;
-}

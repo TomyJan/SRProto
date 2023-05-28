@@ -3,6 +3,6 @@ syntax = "proto3";
 import "HeroBasicType.proto";
 
 message SetHeroBasicTypeScRsp {
-    uint32 retcode = 1;
-    HeroBasicType basic_type = 2;
+  uint32 m_value = 10;
+  HeroBasicType jCIKMHKIOIM = 2;
 }

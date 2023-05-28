@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message SceneEnterStageCsReq {
-    uint32 event_id = 1;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message EnterAdventureCsReq {
-    uint32 map_id = 1;
-}

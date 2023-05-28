@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "RogueDialogStatus.proto";
-
-message RogueDialog {
-    uint32 rogue_dialog_id = 1;
-    RogueDialogStatus status = 2;
-}

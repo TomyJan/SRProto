@@ -1,8 +1,8 @@
 syntax = "proto3";
 
+import "MEMBGLBCHIJ.proto";
 
 message DressRelicAvatarCsReq {
-    uint32 relic_type = 1;
-    uint32 relic_unique_id = 2;
-    uint32 base_avatar_id = 3;
+  uint32 belongAvatarID = 7;
+  repeated MEMBGLBCHIJ dBFPPHMNFFI = 11;
 }

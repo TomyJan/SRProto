@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-
 message GetWaypointCsReq {
-    uint32 chapter_id = 1;
+  uint32 chapterId = 10;
 }

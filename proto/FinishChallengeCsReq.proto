@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-
 message FinishChallengeCsReq {
-    uint32 challenge_id = 1;
+  uint32 challengeID = 13;
 }

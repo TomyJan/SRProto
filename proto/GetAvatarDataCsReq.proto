@@ -1,7 +1,6 @@
 syntax = "proto3";
 
-
 message GetAvatarDataCsReq {
-    bool is_get_all = 1;
-    repeated uint32 base_avatar_id_list = 2;
+  repeated uint32 mCJGAHCPGON = 3;
+  bool isGetAll = 7;
 }

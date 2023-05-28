@@ -1,7 +1,6 @@
 syntax = "proto3";
 
-
 message TakeLoginActivityRewardCsReq {
-    uint32 id = 1;
-    uint32 take_days = 2;
+  uint32 takenDay = 13;
+  uint32 id = 11;
 }

@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-import "Quest.proto";
+import "FHBEBAPKNKM.proto";
 
 message GetQuestDataScRsp {
-    uint32 retcode = 1;
-    repeated Quest quest_list = 2;
-    uint32 total_achievement_exp = 3;
-    repeated uint32 taken_achievement_level_list = 4;
+  uint32 m_value = 6;
+  uint32 cPFBENGOFIK = 14;
+  repeated FHBEBAPKNKM oEOJNINIGMB = 8;
 }

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message FinishCosumeItemMissionScRsp {
-    uint32 retcode = 1;
-    uint32 sub_mission_id = 2;
-}

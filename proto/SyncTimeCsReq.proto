@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message SyncTimeCsReq {
-    uint64 client_time_ms = 1;
-}

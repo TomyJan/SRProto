@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "ArchiveData.proto";
+import "LGCIMIOFBCP.proto";
 
 message GetUpdatedArchiveDataScRsp {
-    uint32 retcode = 1;
-    ArchiveData archive_data = 2;
+  uint32 m_value = 14;
+  LGCIMIOFBCP nMKBCANGIII = 10;
 }

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message SetNicknameCsReq {
-    string nickname = 1;
-    bool is_modify = 2;
-}

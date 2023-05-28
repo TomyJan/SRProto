@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-
 message GetShopListCsReq {
-    uint32 shop_type = 1;
+  uint32 shopType = 3;
 }

@@ -1,15 +1,16 @@
 syntax = "proto3";
 
-import "PlayerBasicInfo.proto";
+import "BEPIDFNIMLN.proto";
 
 message PlayerLoginScRsp {
-    uint32 retcode = 1;
-    bool is_new_player = 2;
-    PlayerBasicInfo basic_info = 3;
-    uint64 server_timestamp_ms = 4;
-    uint32 stamina = 5;
-    bool is_relay = 6;
-    uint64 login_random = 7;
-    int32 cur_timezone = 8;
-    string bs_bin_version = 10;
+  BEPIDFNIMLN bGONHENALMD = 7;
+  string gHFMCFENPNF = 9;
+  bool gIJGFEGHLBP = 13;
+  uint64 serverTimestampMs = 4;
+  uint32 stamina = 5;
+  uint32 m_value = 14;
+  uint64 serverLoginRandomNum = 6;
+  int32 curServerTimezone = 11;
+  string registerCPS = 12;
+  bool isRelay = 15;
 }

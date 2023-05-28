@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message UnlockRogueRoomScRsp {
-    uint32 retcode = 1;
-}

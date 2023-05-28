@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "CurChallenge.proto";
+import "NOEACEGLLDB.proto";
 
 message GetCurChallengeScRsp {
-    uint32 retcode = 1;
-    CurChallenge cur_challenge = 2;
+  uint32 m_value = 13;
+  NOEACEGLLDB cIMGPHGOPHM = 3;
 }

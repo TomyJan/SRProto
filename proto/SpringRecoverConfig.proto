@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "AvatarPresetHp.proto";
-
-message SpringRecoverConfig {
-    repeated AvatarPresetHp avatar_preset_hp_list = 1;
-    bool auto_recover_hp = 2;
-    uint32 default_hp = 3;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-enum BlackLimitLevel {
-    BLACK_LIMIT_LEVEL_ALL = 0;
-}

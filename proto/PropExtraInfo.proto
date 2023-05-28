@@ -1,9 +1,11 @@
 syntax = "proto3";
 
-import "PropRogueInfo.proto";
+import "GEDPIKBGJLJ.proto";
+import "PropAeonInfo.proto";
 
 message PropExtraInfo {
-    oneof info {
-        PropRogueInfo rogue_info = 1;
-    }
+  oneof Info {
+    GEDPIKBGJLJ rogueInfo = 11;
+    PropAeonInfo aeonInfo = 7;
+  }
 }

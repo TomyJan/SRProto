@@ -1,9 +1,8 @@
 syntax = "proto3";
 
-
 message UnlockSkilltreeScRsp {
-    uint32 retcode = 1;
-    uint32 base_avatar_id = 2;
-    uint32 point_id = 3;
-    uint32 level = 4;
+  uint32 pointID = 7;
+  uint32 m_value = 3;
+  uint32 level = 11;
+  uint32 belongAvatarID = 14;
 }

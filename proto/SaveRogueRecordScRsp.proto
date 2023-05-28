@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "RogueRecord.proto";
-
-message SaveRogueRecordScRsp {
-    uint32 retcode = 1;
-    RogueRecord record = 2;
-}

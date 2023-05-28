@@ -1,10 +1,8 @@
 syntax = "proto3";
 
-import "RogueInfo.proto";
-import "RogueChallengeInfo.proto";
+import "FIBJAHGDDHO.proto";
 
 message GetRogueInfoScRsp {
-    uint32 retcode = 1;
-    RogueInfo rogue_info = 2;
-    RogueChallengeInfo rogue_challenge_info = 3;
+  FIBJAHGDDHO aDLNFBKJIAI = 2;
+  uint32 m_value = 8;
 }

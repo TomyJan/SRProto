@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message AcceptMissionEventCsReq {
-    uint32 mission_event_id = 1;
-}

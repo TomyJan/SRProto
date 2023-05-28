@@ -1,8 +1,9 @@
 syntax = "proto3";
 
-import "MotionInfo.proto";
+import "OEFEOGHDJIO.proto";
 
 message SceneEntityMoveScNotify {
-    uint32 entity_id = 1;
-    MotionInfo motion = 2;
+  OEFEOGHDJIO hMKLFKCMLNL = 2;
+  uint32 characterID = 12;
+  uint32 hOCBBLHJJNI = 13;
 }

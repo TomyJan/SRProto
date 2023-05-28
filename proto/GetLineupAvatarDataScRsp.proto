@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "LineupAvatarData.proto";
+import "PFLFKABMJKP.proto";
 
 message GetLineupAvatarDataScRsp {
-    uint32 retcode = 1;
-    repeated LineupAvatarData avatar_data_list = 2;
+  repeated PFLFKABMJKP aLNAJAAMBFC = 5;
+  uint32 m_value = 7;
 }

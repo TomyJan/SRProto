@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "RogueAppraisalItem.proto";
-
-message RogueAppraisalItemInfo {
-    repeated RogueAppraisalItem item_list = 1;
-}

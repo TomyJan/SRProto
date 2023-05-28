@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-
 message LeaveRaidScRsp {
-    uint32 retcode = 1;
+  uint32 m_value = 15;
 }

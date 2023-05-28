@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message ChooseMazeSeriesScRsp {
-    uint32 retcode = 1;
-    uint32 series_id = 2;
-}

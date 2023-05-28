@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message CharacterSnapshot {
-    uint32 runtime_id = 1;
-    repeated uint64 properties = 2;
-}

@@ -1,20 +1,21 @@
 syntax = "proto3";
 
-
 enum CmdChallengeType {
-    CmdChallengeTypeNone = 0;
-    CmdGetChallengeCsReq = 1701;
-    CmdGetChallengeScRsp = 1702;
-    CmdStartChallengeCsReq = 1703;
-    CmdStartChallengeScRsp = 1704;
-    CmdLeaveChallengeCsReq = 1705;
-    CmdLeaveChallengeScRsp = 1706;
-    CmdChallengeSettleNotify = 1707;
-    CmdFinishChallengeCsReq = 1708;
-    CmdFinishChallengeScRsp = 1709;
-    CmdGetCurChallengeCsReq = 1710;
-    CmdGetCurChallengeScRsp = 1711;
-    CmdChallengeLineupNotify = 1712;
-    CmdTakeChallengeTargetRewardCsReq = 1713;
-    CmdTakeChallengeTargetRewardScRsp = 1714;
+  CmdChallengeTypeNone = 0;
+  CmdFinishChallengeScRsp = 1760;
+  CmdChallengeSettleNotify = 1704;
+  CmdLeaveChallengeCsReq = 1778;
+  CmdTakeChallengeRewardCsReq = 1751;
+  CmdLeaveChallengeScRsp = 1755;
+  CmdStartChallengeScRsp = 1797;
+  CmdTakeChallengeRewardScRsp = 1757;
+  CmdGetChallengeCsReq = 1752;
+  CmdGetChallengeScRsp = 1733;
+  CmdStartChallengeCsReq = 1719;
+  CmdChallengeLineupNotify = 1709;
+  CmdGetCurChallengeScRsp = 1750;
+  CmdGetCurChallengeCsReq = 1746;
+  CmdFinishChallengeCsReq = 1747;
+  CmdTakeChallengeTargetRewardScRsp = 1724;
+  CmdTakeChallengeTargetRewardCsReq = 1722;
 }

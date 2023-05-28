@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message SetMissionEventProgressCsReq {
-    uint32 mission_event_id = 1;
-    uint32 progress = 2;
-}

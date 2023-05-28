@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message SetMazeTimeOfDayCsReq {
-    uint32 plane_id = 1;
-    uint32 time_of_day_type = 2;
-}

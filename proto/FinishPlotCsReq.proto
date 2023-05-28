@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-
 message FinishPlotCsReq {
-    uint32 plot_id = 1;
+  uint32 plotID = 7;
 }

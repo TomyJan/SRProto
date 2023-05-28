@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-
 message SceneEntityDisappearScNotify {
-    repeated uint32 entity_id_list = 1;
+  repeated uint32 pFDGHMMFKLF = 14;
 }

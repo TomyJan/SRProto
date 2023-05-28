@@ -1,15 +1,15 @@
 syntax = "proto3";
 
-import "BattleAvatar.proto";
-import "SceneBattleInfo.proto";
-import "BattleEndStatus.proto";
+import "ODHNJNFJMNJ.proto";
+import "BattleEnd.proto";
+import "BOGGPAELPEP.proto";
 
 message GetCurBattleInfoScRsp {
-    uint32 retcode = 1;
-    uint32 stage_id = 2;
-    uint32 logic_random_seed = 3;
-    repeated BattleAvatar avatar_list = 4;
-    SceneBattleInfo battle_info = 5;
-    BattleEndStatus last_end_status = 6;
-    uint32 last_event_id = 7;
+  repeated ODHNJNFJMNJ nLDDFJCAHIA = 14;
+  BattleEnd hPHIMJAJANJ = 10;
+  uint32 stageID = 12;
+  uint32 seed = 9;
+  uint32 pFBEFHCDPIP = 15;
+  BOGGPAELPEP mEGJDKGGEOJ = 8;
+  uint32 m_value = 13;
 }

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-
-enum EnterMazeReason {
-    REASON_NONE = 0;
-    REASON_CHALLENGE_TIMEOUT = 1;
-    REASON_ROGUE_TIMEOUT = 2;
-}

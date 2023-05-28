@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message WaitDelResource {
-    uint32 tid = 1;
-    uint32 num = 2;
-}

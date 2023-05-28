@@ -3,6 +3,6 @@ syntax = "proto3";
 import "PileItem.proto";
 
 message AvatarExpUpScRsp {
-    uint32 retcode = 1;
-    repeated PileItem return_item_list = 2;
+  repeated PileItem pNMIKFILKDE = 10;
+  uint32 m_value = 14;
 }

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "LanguageType.proto";
-
-message SetLanguageScRsp {
-    uint32 retcode = 1;
-    LanguageType language = 2;
-}

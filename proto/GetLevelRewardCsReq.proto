@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message GetLevelRewardCsReq {
-    uint32 level = 1;
-}

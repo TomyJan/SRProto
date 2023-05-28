@@ -1,11 +1,14 @@
 syntax = "proto3";
 
+import "NODDIDFONGF.proto";
 import "RaidStatus.proto";
 import "ItemList.proto";
 
 message RaidInfoNotify {
-    uint32 raid_id = 1;
-    uint32 world_level = 2;
-    RaidStatus status = 3;
-    ItemList item_list = 4;
+  uint32 worldLevel = 8;
+  repeated NODDIDFONGF dFMFCFLGNKA = 7;
+  uint32 currentRaidID = 9;
+  RaidStatus _Status = 14;
+  uint64 gMECLHKNMOM = 2;
+  ItemList itemList = 1;
 }

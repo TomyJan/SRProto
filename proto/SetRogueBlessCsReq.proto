@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message SetRogueBlessCsReq {
-    uint32 bless_id = 1;
-}

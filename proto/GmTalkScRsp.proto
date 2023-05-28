@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message GmTalkScRsp {
-    uint32 retcode = 1;
-    string retmsg = 2;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-
-message UnlockRogueRoomCsReq {
-    uint32 room_id = 1;
-}

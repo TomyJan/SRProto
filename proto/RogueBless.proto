@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-
-message RogueBless {
-    uint32 bless_id = 1;
-    uint32 level = 2;
-}

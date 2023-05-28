@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NpcRogueInfo.proto";
-
-message NpcExtraInfo {
-    oneof info {
-        NpcRogueInfo rogue_info = 1;
-    }
-}

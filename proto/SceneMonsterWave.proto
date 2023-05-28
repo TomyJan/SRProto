@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message SceneMonsterWave {
-    repeated uint32 monster_id_list = 1;
-    repeated ItemList drop_list = 2;
-}

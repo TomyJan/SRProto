@@ -1,8 +1,10 @@
 syntax = "proto3";
 
-import "Maze.proto";
+import "FIBJAHGDDHO.proto";
+import "HCFBMEBDAEG.proto";
 
 message LeaveRogueScRsp {
-    uint32 retcode = 1;
-    Maze maze = 2;
+  FIBJAHGDDHO aDLNFBKJIAI = 2;
+  uint32 m_value = 15;
+  HCFBMEBDAEG _SceneInfo = 8;
 }
