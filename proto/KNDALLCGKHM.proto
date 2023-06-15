@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "COOEFMOBLKO.proto";
+
+message KNDALLCGKHM {
+  uint32 ILPILFAPHAB = 6;
+  repeated COOEFMOBLKO ECBLPCDEKHB = 9;
+}

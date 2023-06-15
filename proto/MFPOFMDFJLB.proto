@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MFPOFMDFJLB {
+  uint32 ILPILFAPHAB = 6;
+}

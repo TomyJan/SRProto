@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DGOJECFMABI {
+  uint32 ILPILFAPHAB = 13;
+}

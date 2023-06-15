@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ABPFFMGKNAO.proto";
+
+message GBEOJEHLCNO {
+  uint32 ILPILFAPHAB = 2;
+  ABPFFMGKNAO OBLDGHNJFFA = 5;
+}

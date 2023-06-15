@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "EIAHHCPFCCM.proto";
+
+message DIBFLONJMCJ {
+  EIAHHCPFCCM DNLHHNOPIPL = 10;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PKOLMOIMKBD {
+  repeated uint32 BIKFFANDHDA = 9;
+}

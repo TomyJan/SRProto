@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "NIDIDDIBAIE.proto";
+
+message EDFFOAFINEO {
+  repeated NIDIDDIBAIE GDOMMDFPEIF = 6;
+}

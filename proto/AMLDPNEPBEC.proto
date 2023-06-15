@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AMLDPNEPBEC {
+  uint32 ILPILFAPHAB = 8;
+}

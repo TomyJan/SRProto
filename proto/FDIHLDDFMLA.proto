@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FDIHLDDFMLA {
+  uint32 IFKFGDCBFPG = 15;
+}

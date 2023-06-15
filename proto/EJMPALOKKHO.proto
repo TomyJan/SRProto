@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message EJMPALOKKHO {
+  uint32 MILNBMLNLOH = 3;
+  uint32 ILPILFAPHAB = 4;
+}

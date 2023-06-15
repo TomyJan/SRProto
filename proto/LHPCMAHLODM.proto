@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LHPCMAHLODM {
+  uint32 OLIONBIJMDD = 2;
+  uint32 HMMDPLAEHDE = 9;
+}

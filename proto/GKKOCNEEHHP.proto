@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "GOGEEDAONPK.proto";
+
+message GKKOCNEEHHP {
+  repeated uint32 IBGKEONGKKF = 3;
+  repeated GOGEEDAONPK OCFCHJBFNCM = 10;
+  uint32 AEOHEDIADDK = 13;
+}

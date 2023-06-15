@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BHPMJOAPPAP {
+  string OCLDMJEMLJK = 1;
+  string LGKGOMNMBAH = 2;
+}

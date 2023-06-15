@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "APGDFMCPBLN.proto";
+
+message ECDHLPADNFG {
+  APGDFMCPBLN DBOFJOIJNOP = 10;
+}

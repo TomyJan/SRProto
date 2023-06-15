@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KLGOBCBDMNG {
+  uint32 LBLAJCFMHJP = 12;
+  uint32 LPICFHFFIAL = 11;
+}

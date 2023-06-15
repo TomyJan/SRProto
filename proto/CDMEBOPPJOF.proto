@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "OIPHDEMKFJA.proto";
+
+message CDMEBOPPJOF {
+  uint32 ILPILFAPHAB = 3;
+  OIPHDEMKFJA PJJMBCILFIN = 14;
+}

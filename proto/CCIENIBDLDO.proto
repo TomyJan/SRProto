@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "GFNAFGJMNLM.proto";
+
+message CCIENIBDLDO {
+  repeated GFNAFGJMNLM FGMFIJANDDK = 2;
+}

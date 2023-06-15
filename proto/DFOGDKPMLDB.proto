@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DFOGDKPMLDB {
+  uint32 ACKNMLAEADI = 5;
+}

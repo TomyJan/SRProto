@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JHJIELHGLKC.proto";
+
+message ACFLEAECNPC {
+  JHJIELHGLKC DEBFLACJJHA = 9;
+  repeated JHJIELHGLKC JPBEIHCLJAO = 6;
+  JHJIELHGLKC FAELOJHMEEO = 7;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OFDOCLOBLKI {
+  uint32 KGBEEOKKLPO = 2;
+  string NIKOAKBNGML = 15;
+}

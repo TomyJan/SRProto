@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HIIFMEGLPIG.proto";
+
+message OAPFAJIOFJL {
+  repeated HIIFMEGLPIG CEEHBJBIGKP = 2;
+  uint32 ILPILFAPHAB = 6;
+}

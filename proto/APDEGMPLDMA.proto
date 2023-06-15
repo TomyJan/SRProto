@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message APDEGMPLDMA {
+  uint32 CNACIKBDGLL = 8;
+}

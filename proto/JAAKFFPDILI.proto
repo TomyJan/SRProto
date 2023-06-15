@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JAAKFFPDILI {
+  uint32 BCGENDKMFAB = 10;
+  uint32 LGIFDADBCBI = 13;
+}

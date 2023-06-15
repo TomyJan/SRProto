@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GIPBDNPODID {
+  uint32 FIJGCCOIHJN = 12;
+  bool FHGOIJBJEAF = 7;
+}

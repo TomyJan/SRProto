@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LOKFOMDAAJE.proto";
+
+message OBIFAKLOOAK {
+  repeated LOKFOMDAAJE IGLKBNHKAMK = 3;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AOFCNIKCJFD.proto";
+
+message LBMCPAEPJDC {
+  AOFCNIKCJFD HFGBLPABIFP = 6;
+  uint32 OMCKKOFFLJA = 4;
+}

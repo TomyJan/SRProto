@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KABJDBCIEEA {
+  uint32 ILPILFAPHAB = 7;
+}

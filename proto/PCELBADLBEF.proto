@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DCMBEBOPFHO.proto";
+
+message PCELBADLBEF {
+  DCMBEBOPFHO OJCJJKIBGDE = 13;
+}

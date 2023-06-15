@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ECPNPMNJIBC {
+  uint32 AJPOOOGIJBM = 9;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "GMCHCHFFMEI.proto";
+import "JDAOCFFKMGJ.proto";
+
+message GDPGDCFJGJK {
+  oneof EAIIMNOFOGO {
+    GMCHCHFFMEI FKKBPMGIABL = 10;
+    JDAOCFFKMGJ BNHHAIIBPEH = 4;
+  }
+}

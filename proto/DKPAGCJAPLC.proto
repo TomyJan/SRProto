@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DKPAGCJAPLC {
+  uint32 KGBEEOKKLPO = 9;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IPLOFDIADBK.proto";
+
+message NKBIFJMIJKJ {
+  IPLOFDIADBK HPCDMJMFBBM = 14;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GFOCGPKLCOG {
+  uint32 LHBLCNGJAOB = 9;
+}

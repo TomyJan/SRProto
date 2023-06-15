@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EOEIGMPKAAO.proto";
+import "ItemList.proto";
+
+message DPHBPCLGLJK {
+  EOEIGMPKAAO HOPLGKPJOBF = 4;
+  ItemList JNBKOKACNNA = 9;
+  uint32 ILPILFAPHAB = 11;
+}

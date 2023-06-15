@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message FAKCDLEKLOD {
+  uint32 ILPILFAPHAB = 13;
+  ItemList JNBKOKACNNA = 9;
+}

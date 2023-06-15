@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ICPKLJOADIP {
+  uint32 ILPILFAPHAB = 1;
+  uint32 OMKBLMMABBH = 12;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "EEPAFHEBIKG.proto";
+import "HJDGNJOCKCM.proto";
+import "ItemList.proto";
+
+message GBIONPJKCHJ {
+  repeated EEPAFHEBIKG LFMAPBPNINA = 9;
+  HJDGNJOCKCM OJIMFDLOBIO = 11;
+  repeated ItemList CEIMBMIHBFK = 10;
+}

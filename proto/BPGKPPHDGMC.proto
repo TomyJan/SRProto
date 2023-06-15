@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BPGKPPHDGMC {
+  repeated uint32 NLKBFFBDFLG = 8;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HFHCBBGHNHJ.proto";
+
+message CELOMGMEFLN {
+  uint32 ILPILFAPHAB = 2;
+  HFHCBBGHNHJ AMFOFFLMLIF = 5;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum HBLEPMHHLLM {
+  MSG_TYPE_NONE = 0;
+  MSG_TYPE_CUSTOM_TEXT = 1;
+}

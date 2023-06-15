@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PAIFIBFIGBG.proto";
+
+message PCMCHOKELHD {
+  uint32 ILPILFAPHAB = 12;
+  repeated PAIFIBFIGBG GHEEIMLLGHD = 7;
+}

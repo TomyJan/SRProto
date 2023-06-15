@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GPNPFOMBILJ {
+  uint32 JHCGGPNBNJC = 1;
+  repeated uint64 JLAFNGLAOEO = 2;
+}

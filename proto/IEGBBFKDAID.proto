@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IEGBBFKDAID {
+  uint32 BJCJJBOJPLP = 8;
+}

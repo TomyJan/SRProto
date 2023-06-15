@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KMHLCEPCMPJ {
+  uint32 ILPILFAPHAB = 4;
+}

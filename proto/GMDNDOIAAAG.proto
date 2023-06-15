@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CCMEEOMNKFD.proto";
+
+message GMDNDOIAAAG {
+  CCMEEOMNKFD GKBLFAADAMN = 3;
+}

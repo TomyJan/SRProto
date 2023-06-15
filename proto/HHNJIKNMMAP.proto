@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HHNJIKNMMAP {
+  uint32 ILPILFAPHAB = 1;
+}

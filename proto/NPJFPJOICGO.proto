@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BAPMEKJDPIC.proto";
+
+message NPJFPJOICGO {
+  repeated BAPMEKJDPIC DJIILPBPEJE = 8;
+  repeated uint32 GPPFGKDNIMH = 13;
+  uint32 DJIABKNBKFM = 3;
+}

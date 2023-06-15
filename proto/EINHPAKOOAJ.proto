@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "GFKMPLFHDML.proto";
+
+message EINHPAKOOAJ {
+  GFKMPLFHDML DCHBNHKHHDL = 9;
+}

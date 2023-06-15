@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MICCBMAOFEG {
+  uint32 ILPILFAPHAB = 4;
+}

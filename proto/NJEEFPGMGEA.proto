@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NJEEFPGMGEA {
+  repeated uint32 GKJPNMNMGKJ = 4;
+}

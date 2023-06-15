@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NJPGKENCOLM {
+  uint32 ILPILFAPHAB = 14;
+}

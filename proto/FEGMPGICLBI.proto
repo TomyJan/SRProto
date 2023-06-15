@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FEGMPGICLBI {
+  uint32 LAINLFEOCJO = 1;
+  uint32 MNDNHOPHDAK = 2;
+}

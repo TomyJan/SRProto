@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AOFCNIKCJFD.proto";
+
+message FIOLBPPPEIF {
+  uint32 LEMPNCNFCEO = 9;
+  AOFCNIKCJFD HFGBLPABIFP = 4;
+  uint32 CJBFGCOAKFD = 7;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "BAGPFGMEOPD.proto";
+
+message GBBKAJIMCNC {
+  uint32 ILPILFAPHAB = 13;
+  repeated BAGPFGMEOPD EDDNGGNLBFC = 10;
+  uint32 OAFHLCJILIL = 9;
+  string FMEACLDOIDN = 14;
+}

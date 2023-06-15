@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PNFBKDNNCCG.proto";
+
+message NPFHPLHGPKG {
+  uint32 EONOLLBLAFM = 15;
+  uint32 ILPILFAPHAB = 14;
+  repeated PNFBKDNNCCG MOMFLLKMDDC = 3;
+}

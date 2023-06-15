@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IPLOFDIADBK.proto";
+
+message AKJFMJDMDBJ {
+  IPLOFDIADBK BEDCMPKEFDK = 10;
+  uint32 MFFNEIDOBBH = 4;
+  uint32 MNDNHOPHDAK = 2;
+}

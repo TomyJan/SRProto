@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BKIIAPBGNNA {
+  uint32 JBPDECGDEIN = 7;
+}

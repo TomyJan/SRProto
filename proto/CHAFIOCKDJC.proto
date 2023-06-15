@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CHAFIOCKDJC {
+  uint32 GCJBEEPKOIE = 10;
+  uint32 OMCKKOFFLJA = 14;
+}

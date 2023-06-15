@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NHGMACHPLDL {
+  uint32 ILPILFAPHAB = 15;
+  uint64 IAJBOIOGEIF = 8;
+}

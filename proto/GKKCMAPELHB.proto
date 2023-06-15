@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HGIILNOOCPH.proto";
+
+message GKKCMAPELHB {
+  oneof EAIIMNOFOGO {
+    HGIILNOOCPH FKKBPMGIABL = 15;
+  }
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EFIIIKFMGEN.proto";
+import "PCKAGOPGLHK.proto";
+
+message HMHMEFFBFIA {
+  EFIIIKFMGEN JADPFIAEGOK = 5;
+  PCKAGOPGLHK OMDNAPDCLDJ = 13;
+}

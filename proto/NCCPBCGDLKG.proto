@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NCCPBCGDLKG {
+  repeated uint32 HKMLAIBODNC = 15;
+}

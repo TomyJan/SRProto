@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KNPPAJOAPEM {
+  uint32 JIKNHOGDEMB = 6;
+  uint32 EEIKJLADGMM = 13;
+}

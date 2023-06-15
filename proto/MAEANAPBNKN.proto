@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MAEANAPBNKN {
+  uint32 FOEMLGGFEOG = 4;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OAKOHFPFDIC {
+  repeated uint32 BHOEKIKCFMH = 3;
+}

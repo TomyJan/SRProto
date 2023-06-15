@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AOFCNIKCJFD.proto";
+
+message AKNPBBMDFCL {
+  AOFCNIKCJFD HFGBLPABIFP = 13;
+  uint32 OMCKKOFFLJA = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ECMGMCODFCK {
+  uint32 LKGIOCKDDGF = 12;
+}

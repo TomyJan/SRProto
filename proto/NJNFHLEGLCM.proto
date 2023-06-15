@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NJNFHLEGLCM {
+  int64 DIECNICGPNA = 7;
+}

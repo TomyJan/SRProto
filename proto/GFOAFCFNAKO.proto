@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GFOAFCFNAKO {
+  uint32 BNPMHIOKINH = 2;
+  uint32 JIKNHOGDEMB = 8;
+}

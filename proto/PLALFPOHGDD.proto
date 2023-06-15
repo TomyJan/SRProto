@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PLALFPOHGDD {
+  uint32 HFOBFAPMAAK = 10;
+}

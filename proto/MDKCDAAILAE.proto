@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BMLOOCFDGFK.proto";
+
+message MDKCDAAILAE {
+  BMLOOCFDGFK CBEFEEMJDAI = 2;
+  uint32 KGBEEOKKLPO = 7;
+  bool KOFFCJPACPJ = 11;
+}

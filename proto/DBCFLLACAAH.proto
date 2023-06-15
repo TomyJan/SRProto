@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LNNONKIBNFC.proto";
+
+message DBCFLLACAAH {
+  repeated LNNONKIBNFC FMHFEACFEBD = 13;
+  uint32 ILPILFAPHAB = 15;
+}

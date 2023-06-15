@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JAKGDJEHMMI.proto";
+
+message DMGPIAAILIM {
+  uint32 ILPILFAPHAB = 11;
+  repeated JAKGDJEHMMI ELPGIECHKPO = 2;
+}

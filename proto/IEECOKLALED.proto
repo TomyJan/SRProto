@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IEECOKLALED {
+  repeated uint32 EHKNINMLJDE = 9;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "AHEOLMNEADD.proto";
+
+message FIANEDOMDNI {
+  AHEOLMNEADD BEEBFNPGDON = 5;
+}

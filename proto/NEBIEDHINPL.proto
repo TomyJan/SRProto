@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NEBIEDHINPL {
+  uint32 INADJIIBFNO = 13;
+}

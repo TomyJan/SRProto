@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EGCLCLMLPNE.proto";
+
+message JKKHALMJLDI {
+  uint32 ILPILFAPHAB = 3;
+  repeated EGCLCLMLPNE DJAGBDBDOLM = 10;
+}

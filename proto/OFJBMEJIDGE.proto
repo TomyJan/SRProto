@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DIMLAEACAHO.proto";
+
+message OFJBMEJIDGE {
+  DIMLAEACAHO ELJPIINPMMA = 5;
+}

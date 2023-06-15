@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KACHHLIMLOM.proto";
+
+message CBPKMJLCMKP {
+  KACHHLIMLOM LCEMNHBFOHM = 11;
+}

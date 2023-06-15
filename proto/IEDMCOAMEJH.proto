@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IEDMCOAMEJH {
+  bool FLHGLFHLOFM = 4;
+}

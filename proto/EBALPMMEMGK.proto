@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EBALPMMEMGK {
+  bool NILEPOCAONC = 4;
+}

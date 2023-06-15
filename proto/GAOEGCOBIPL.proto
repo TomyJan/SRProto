@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message GAOEGCOBIPL {
+  string NIKOAKBNGML = 2;
+  uint32 ILPILFAPHAB = 13;
+  uint32 KGBEEOKKLPO = 4;
+}

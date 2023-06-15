@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ENEMOOKMDPA {
+  uint32 KGNJFCPGJJD = 13;
+}

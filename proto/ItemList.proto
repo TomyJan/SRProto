@@ -3,5 +3,5 @@ syntax = "proto3";
 import "Item.proto";
 
 message ItemList {
-  repeated Item item_list_ = 11;
+  repeated Item item_list_ = 9;
 }

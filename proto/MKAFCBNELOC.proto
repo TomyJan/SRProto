@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MKAFCBNELOC {
+  uint32 ILPILFAPHAB = 12;
+}

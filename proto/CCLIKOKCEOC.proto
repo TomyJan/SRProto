@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CCLIKOKCEOC {
+  uint32 HFOBFAPMAAK = 12;
+  uint32 IGMHELGLILN = 13;
+}

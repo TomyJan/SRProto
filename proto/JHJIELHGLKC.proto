@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KNPPAJOAPEM.proto";
+
+message JHJIELHGLKC {
+  repeated KNPPAJOAPEM FDGEDPOAIED = 14;
+}

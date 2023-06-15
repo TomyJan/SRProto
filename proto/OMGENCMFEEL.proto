@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ABPFFMGKNAO.proto";
+
+message OMGENCMFEEL {
+  uint32 ILPILFAPHAB = 3;
+  ABPFFMGKNAO OBLDGHNJFFA = 8;
+}

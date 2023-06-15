@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DGKAHHLLJOH.proto";
+
+message AJLHIKICLGA {
+  DGKAHHLLJOH HMBAADOMJBH = 4;
+  uint32 ILPILFAPHAB = 1;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "ODEMKEKOCDN.proto";
+
+message LCPOMEKLOPF {
+  ODEMKEKOCDN GEKJGKKMFNG = 2;
+}

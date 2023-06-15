@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PPBBBOFPILP.proto";
+
+message NIDIDDIBAIE {
+  oneof EAIIMNOFOGO {
+    PPBBBOFPILP IEFJPOEMFHH = 10;
+    uint32 CJJDDLEDPFP = 3;
+  }
+  uint32 MABMJEBMHNK = 12;
+}
