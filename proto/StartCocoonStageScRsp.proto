@@ -1,11 +1,11 @@
 syntax = "proto3";
 
-import "BOGGPAELPEP.proto";
+import "PNJLBFLCPGJ.proto";
 
 message StartCocoonStageScRsp {
-  BOGGPAELPEP battleInfo = 12;
-  uint32 retcode = 7;
-  uint32 propEntityId = 1;
-  uint32 cocoonId = 4;
-  uint32 wave = 3;
+  uint32 retcode = 5;
+  uint32 wave = 11;
+  PNJLBFLCPGJ battle_info = 3;
+  uint32 prop_entity_id = 8;
+  uint32 cocoon_id = 12;
 }

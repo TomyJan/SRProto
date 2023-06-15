@@ -4,5 +4,5 @@ import "Tutorial.proto";
 
 message UnlockTutorialScRsp {
   uint32 retcode = 9;
-  Tutorial tutorial = 3;
+  Tutorial tutorial = 10;
 }

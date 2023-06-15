@@ -3,9 +3,9 @@ syntax = "proto3";
 import "ItemList.proto";
 
 message BuyGoodsScRsp {
-  uint32 goodsId = 2;
-  uint32 goodsBuyTimes = 3;
-  uint32 shopId = 8;
-  ItemList returnItemList = 6;
-  uint32 retcode = 12;
+  uint32 goods_buy_times = 1;
+  uint32 shop_id = 11;
+  uint32 retcode = 15;
+  uint32 goods_id = 14;
+  ItemList return_item_list = 7;
 }

@@ -1,11 +1,11 @@
 syntax = "proto3";
 
-import "MissionData.proto";
+import "JOHFKDHKIHJ.proto";
 
 message GetMissionStatusScRsp {
-  repeated uint32 unfinishedMainMissionIdList = 14;
-  repeated MissionData missionEventStatusList = 7;
-  uint32 retcode = 11;
-  repeated MissionData subMissionStatusList = 2;
-  repeated uint32 finishedMainMissionIdList = 8;
+  repeated uint32 unfinished_main_mission_id_list = 3;
+  repeated JOHFKDHKIHJ mission_event_status_list = 4;
+  repeated uint32 finished_main_mission_id_list = 1;
+  repeated JOHFKDHKIHJ sub_mission_status_list = 8;
+  uint32 retcode = 15;
 }

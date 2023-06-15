@@ -1,10 +1,10 @@
 syntax = "proto3";
 
-import "AvatarType.proto";
+import "MECLABOMBAN.proto";
 
 message SpringRecoverSingleAvatarScRsp {
-  uint32 retcode = 15;
-  uint32 id = 9;
-  AvatarType avatarType = 10;
-  uint32 hp = 2;
+  uint32 retcode = 12;
+  uint32 hp = 14;
+  uint32 id = 11;
+  MECLABOMBAN avatar_type = 6;
 }

@@ -3,11 +3,11 @@ syntax = "proto3";
 import "Goods.proto";
 
 message Shop {
-  uint32 cityLevel = 4;
-  uint32 cityExp = 5;
-  repeated Goods goodsList = 2;
-  int64 endTime = 10;
-  int64 beginTime = 9;
-  uint32 shopId = 15;
-  uint64 cityTakenLevelReward = 12;
+  int64 end_time = 14;
+  repeated Goods goods_list = 2;
+  uint64 city_taken_level_reward = 6;
+  uint32 city_level = 15;
+  int64 begin_time = 10;
+  uint32 shop_id = 11;
+  uint32 city_exp = 3;
 }

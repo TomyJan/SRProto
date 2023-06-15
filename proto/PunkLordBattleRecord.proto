@@ -4,12 +4,12 @@ import "PunkLordBattleAvatar.proto";
 
 message PunkLordBattleRecord {
   uint32 uid = 1;
-  uint32 damageHp = 2;
-  bool isFinalHit = 3;
-  uint32 overKillDamageHp = 4;
-  string battleReplayKey = 5;
-  repeated PunkLordBattleAvatar avatarList = 6;
-  uint32 assistScore = 7;
-  uint32 damageScore = 8;
-  uint32 finalHitScore = 9;
+  uint32 damage_hp = 2;
+  bool is_final_hit = 3;
+  uint32 over_kill_damage_hp = 4;
+  string battle_replay_key = 5;
+  repeated PunkLordBattleAvatar avatar_list = 6;
+  uint32 assist_score = 7;
+  uint32 damage_score = 8;
+  uint32 final_hit_score = 9;
 }

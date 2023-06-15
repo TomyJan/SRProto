@@ -1,6 +1,6 @@
 syntax = "proto3";
 
 message SavePointsInfoNotify {
-  uint32 validTimes = 8;
-  int64 refreshTime = 6;
+  uint32 valid_times = 8;
+  int64 refresh_time = 9;
 }
